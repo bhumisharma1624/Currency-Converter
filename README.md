@@ -3,7 +3,7 @@
 A clean, responsive web application that provides real-time currency conversion rates. Built using modern HTML5, CSS3, and Vanilla JavaScript, this project integrates a live exchange rate API to deliver instant, accurate conversions across global currencies.
 
 ## 📸 Preview
-![Currency Converter Preview]()
+![Currency Converter Preview]("https://github.com/bhumisharma1624/Currency-Converter/blob/main/Currency-Converter.png")
 *A preview of the currency converter dashboard displaying seamless input fields, custom dropdown flags, and real-time conversion outputs.*
 
 ---
